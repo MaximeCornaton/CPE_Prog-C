@@ -7,12 +7,8 @@ Année: 2022-2023
 
 -   Comprendre les fonctions, les fonctions récursives, la manipulation
     du répertoire et les listes.
--   Débogage à l'aide de gdb.
 
-
-Jusqu'à présent, nous avons utilisé printf pour trouver la source des erreurs. Avant de continuer les TPs, veuillez vérifier [cet exercice](../gdb/README.md) simple pour comprendre comment déboguer le code en utilisant gdb.
-
-#### Exercice 4.1 [★]
+#### Exercice 4.1 [★] fait
 
  
 En réutilisant le code de l'*operators2.c* (TP2), écrivez un programme
@@ -28,7 +24,7 @@ cette fois, si op est égal à '+', le programme doit appeler la fonction
 num2, op.
 
 
-#### Exercice 4.2 [★]
+#### Exercice 4.2 [★] fait
 
  
 Écrivez un programme en créant deux fichiers *fichier.c* et fichier.h.
@@ -40,7 +36,7 @@ fichier et écrire le message saisi par l'utilisateur dans le fichier.
 Testez ces fonctions en utilisant le fichier principal (*main.c*).
 
 
-#### Exercice 4.3 [★★]
+#### Exercice 4.3 [★★] fait
 
  
 En réutilisant le code de l'*etudiant2.c* (TP2) et *fichier.c*, écrivez
@@ -55,7 +51,7 @@ Dupont, Pierre, Boulevard du 11 novembre 1918, Villeurbanne, 20, 30             
 ```
 
 
-#### Exercice 4.4 [★★]
+#### Exercice 4.4 [★★] fait
 
  
 En réutilisant le code de l'*operator.c* (voir ci-dessus), créer une
@@ -69,7 +65,7 @@ l'utilisateur écrit
 Vous devez afficher le produit de ces deux numéros. Testez votre code.
 
 
-#### Exercice 4.5 [★★]
+#### Exercice 4.5 [★★] fait
 
  
 Une fonction récursive est une fonction qui s'appelle elle-même. Par
@@ -91,7 +87,7 @@ int factorielle (int num) {
 différents entiers naturels.
 
 
-#### Exercice 4.6 [★★★]
+#### Exercice 4.6 [★★★] fait
 
  
 En réutilisant le code de *chercher.c* (TP3) et *fichier.c*, écrivez un
