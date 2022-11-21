@@ -19,7 +19,7 @@ struct couleur_compteur{
     int B;
     int A;
     int compteur = 0;
-}
+};
 
 void couleur_compteur(struct couleur c[], struct couleur_compteur cc[]){
     for(int i=0; i< 100; i++){
